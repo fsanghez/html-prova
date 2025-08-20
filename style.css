@@ -1,0 +1,33 @@
+ body { margin:0;
+        background:#2a2e2a;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #059205;
+        font-size:larger;
+        padding: 2%;
+
+}
+
+header { color: #059205;
+         padding: 5%;
+
+}
+
+#searchBar a {  color: #059205;
+          font-size:larger;
+          text-decoration: none;
+          display: inline-block;
+          position: right;
+          padding: 2%;
+
+}
+
+.pageContent { 
+
+}
+img {
+    width: 10%;
+}
+.maps {
+    width: 20%;
+
+}
